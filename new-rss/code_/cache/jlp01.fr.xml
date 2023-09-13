@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Site</title>
+  <link>https://jlp01.fr</link>
+  <description>Site</description>
+  <item>
+    <title>Démonstrations</title>
+    <link>https://jlp01.fr/math.html</link>
+    <description>Démonstrations de JLP</description>
+  </item>
+<item>
+    <title>Séquences musicales</title>
+    <link>https://jlp01.fr/compo.html</link>
+    <description>Séquences musicales de JLP</description>
+  </item>
+<item>
+    <title>Tutoriels</title>
+    <link>https://jlp01.fr/video.html</link>
+    <description>Tutoriels de JLP</description>
+  </item>
+<item>
+    <title>Projets</title>
+    <link>https://jlp01.fr/projets.html</link>
+    <description>Projets de JLP</description>
+  </item>
+<item>
+    <title>Recommandations</title>
+    <link>https://jlp01.fr/rcm.html</link>
+    <description>Recommandations de JLP</description>
+  </item>
+<item>
+    <title>Histoires</title>
+    <link>https://jlp01.fr/hist.html</link>
+    <description>Histoires de JLP</description>
+  </item>
+<item>
+    <title>Podcast</title>
+    <link>https://jlp01.fr/audio.html</link>
+    <description>Podcast de JLP</description>
+  </item>
+
+</channel>
+
+</rss>

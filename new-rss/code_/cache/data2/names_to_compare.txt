@@ -1,0 +1,2 @@
+/home/kvv/new-rss/jlp01.fr.xml
+/home/kvv/new-rss/lukesmith.xyz.xml

@@ -1,0 +1,3 @@
+/home/kvv/new-rss/html_lst/jlp01.fr.html
+/home/kvv/new-rss/html_lst/lukesmith.xyz.html
+/home/kvv/new-rss/html_lst/sive.rs.html

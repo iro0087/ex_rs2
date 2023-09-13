@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Derek Sivers</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/style4.css">
+<link rel="alternate" type="application/atom+xml" href="/en.atom">
+</head>
+<body id="home">
+<header id="masthead"><a href="/" title="Derek Sivers">Derek Sivers</a></header>
+<main>
+<section id=aboutme>
+<h2>
+  Me in 10 seconds
+</h2>
+<p>
+  I’ve been a 
+  <a href=/music>musician</a>,
+  <a href=http://professionalpests.com/>circus performer</a>,
+  <a href=/a>entrepreneur</a>, and 
+  <a href=/presentations>speaker</a>.
+</p><p>
+  I’m a
+  <a href=/slow>slow thinker</a>,
+  <a href=/comfort>explorer</a>,
+  <a href="https://en.wikipedia.org/wiki/Xenophilia">xenophile</a>,
+  and I love a <a href=/u>different point of view</a>.
+</p><p>
+  California native, I now <a href=/local>live</a> in New Zealand.
+</p>
+<h2>
+  Me in 10 minutes?
+</h2>
+<p>
+  See <a href="/about">my “about” page</a>.
+</p>
+<h2>
+  What am I doing now?
+</h2>
+<p>
+  See <a href="/now">my “now” page</a>.
+</p>
+<h2>
+  Contact me
+</h2>
+<p>
+  I love meeting new people, and I reply to every email, so <a href="/contact">say hello</a>.
+</p>
+<h2>
+  <a href="/search">Search this site</a>
+</h2>
+<p>
+  Go to <a href="/search">the search page</a> to search for any word or phrase.
+</p>
+</section>
+
+<section id=mybooks>
+<h2>Books</h2>
+<a href=/images/Sivers-hardcovers-2021.jpg><img src=/images/Sivers-hardcovers-2021.webp alt="Derek Sivers hardcover books, stacked"></a>
+<br>
+
+<a href=/u><img src=/images/DerekSivers-cover-UsefulNotTrue-150x240.png alt="Useful Not True book cover"></a>
+<h3><a href=/u>Useful Not True</a> <span class=small>(2023)</span></h3>
+<p>Doubt everything. No beliefs are true. Adopt what works for you.</p>
+
+<br>
+
+<a href=/h><img src=/images/DerekSivers-cover-HowToLive-150x240.png alt="How to Live book cover"></a>
+<h3><a href=/h>How to Live</a> <span class=small>(2021)</span></h3>
+<p>My masterpiece. Best thing I’ve ever made. My soul in a book.</p>
+
+<br>
+
+<a href=/n><img src=/images/DerekSivers-cover-HellYeahOrNo-150x240.png alt="Hell Yeah or No book cover"></a>
+<h3><a href=/n>Hell Yeah or No</a> <span class=small>(2020)</span></h3>
+<p>Useful wisdom. Simple profound mental models to guide your decisions.</p>
+
+<br>
+
+<a href=/m><img src=/images/DerekSivers-cover-YourMusicAndPeople-150x240.png alt="Your Music and People book cover"></a>
+<h3><a href=/m>Your Music and People</a> <span class=small>(2020)</span></h3>
+<p>Get your work to the world by being creative, considerate, resourceful, and connected.</p>
+
+<br>
+
+<a href=/a><img src=/images/DerekSivers-cover-AnythingYouWant-150x240.png alt="Anything You Want book cover"></a>
+<h3><a href=/a>Anything You Want</a> <span class=small>(2011 → 2022)</span></h3>
+<p>40 lessons for a new kind of entrepreneur. My tales of starting, building, and selling CD Baby.</p>
+
+<br>
+
+<p>
+See <a href="/fp">the foreign publishers</a> of my translated books.
+</p>
+
+</section>
+
+<section id=newestarticles>
+<h2>Newest Articles <small><a href=/blog>see all</a></small></h2>
+<ul>
+  <li><a href=/pnt>The past is not true</a></li>
+  <li><a href=/pdog>dashing dog, searching for purpose</a></li>
+  <li><a href=/575k>$575K of books sold. $575K to save lives.</a></li>
+  <li><a href=/nor>The joy and freedom of harmlessly upsetting social norms</a></li>
+  <li><a href=/xus>Why I let go of my U.S. citizenship</a></li>
+  <li><a href=/suits>the Michael Browne suits</a></li>
+</ul>
+</section>
+
+<section id=popularposts>
+<h2>Popular Articles <small><a href=/blog>see all</a></small></h2>
+<ul>
+  <li><a href=/pa>Parenting : Who is it really for?</a></li>
+  <li><a href=/local>You don’t have to be local</a></li>
+  <li><a href=/ff>First Follower: Leadership Lessons from a Dancing Guy</a></li>
+</ul>
+</section>
+
+<section id=companies>
+<h2>Projects</h2>
+<dl>
+  <dt><a href=/ti>Tech Independence</a></dt>
+  <dd>step-by-step instructions to set up your own server and break dependency on the cloud</dd>
+  <dt><a href=/book>Book Notes</a></dt>
+  <dd>detailed notes from the last 360+ books I’ve read</dd>
+  <dt><a href=https://nownownow.com/>Now Now Now</a></dt>
+  <dd>a collection of sites that have a “what I’m doing now” page</dd>
+  <dt><a href=https://inchword.com/>Inchword</a></dt>
+  <dd>tools to help people translate books</dd>
+  <dt><a href=https://musicthoughts.com/>MusicThoughts</a></dt>
+  <dd>inspiring quotes about music, translated into Español, Français, Deutsch, Italiano, Português, Русский, العربية, 日本語, and 中文</dd>
+</dl>
+</section>
+
+<section id=videos>
+<h2>Videos</h2>
+<dl>
+  <dt><a href=https://www.ted.com/speakers/derek_sivers>TED (ted.com)</a></dt>
+  <dd>3 short talks from the TED Conference.</dd>
+  <dt><a href=/anything>Anything You Want</a></dt>
+  <dd>7 short animations from my book “Anything You Want”.</dd>
+  <dt><a href=/wds>Uncommon Sense</a></dt>
+  <dd>Entrepreneur lessons learned from starting, building, and selling CD Baby.</dd>
+  <dt><a href=/presentations>Conference Presentations</a></dt>
+  <dd>Talks from other conferences, all subjects.</dd>
+</dl>
+</section>
+
+<section id=interviews>
+<h2>Interviews</h2>
+<p>You can listen to over <a href=/i>80 hours of interviews</a>, where I’m the guest.</p>
+<p>Each one has an MP3 you can download, or a transcript if you prefer to read.</p>
+</section>
+
+<section id=photos>
+<h2>Photos <small>(click for big)</small></h2>
+<a href=/images/DerekSivers-20141119-1450.jpg><img src=/images/DerekSivers-20141119-100.jpg alt="Derek Sivers" title="© 2014 Derek Sivers"/></a>
+<a href=/images/DerekSivers-20141209a-1853.jpg><img src=/images/DerekSivers-20141209a-100.jpg alt="Derek Sivers" title="© 2014 Pat Shepherd - patshepherd.co.nz" /></a>
+<a href=/images/DerekSivers-20141209b-2333.jpg><img src=/images/DerekSivers-20141209b-100.jpg alt="Derek Sivers" title="© 2014 Pat Shepherd - patshepherd.co.nz" /></a>
+<a href=/images/DerekSivers-20141209c-1556.jpg><img src=/images/DerekSivers-20141209c-100.jpg alt="Derek Sivers" title="© 2014 Pat Shepherd - patshepherd.co.nz" /></a>
+<a href=/images/DerekSivers-2023-s-4400.jpg><img src=/images/DerekSivers-2023-s-100.jpg alt="Derek Sivers" title="2023 Derek Sivers" /></a>
+</section>
+
+<section id=tweets>
+<h2>Tweets <small><a href=/tweets>see all tweets</a></small></h2>
+<dl id=tweetlist>
+  <dt>July 20, 2023</dt>
+  <dd>The past is not true : <a href="https://sive.rs/pnt">https://sive.rs/pnt</a></dd>
+  <dt>June 30, 2023</dt>
+  <dd>dashing dog, searching for purpose : <a href="https://sive.rs/pdog">https://sive.rs/pdog</a></dd>
+  <dt>May 18, 2023</dt>
+  <dd>$575K of books sold. $575K to save lives. <a href="https://sive.rs/575k">https://sive.rs/575k</a></dd>
+  <dt>April 21, 2023</dt>
+  <dd>The joy and freedom of harmlessly upsetting social norms : <a href="https://sive.rs/nor">https://sive.rs/nor</a></dd>
+  <dt>April 20, 2023</dt>
+  <dd>Why I let go of my U.S. citizenship : <a href="https://sive.rs/xus">https://sive.rs/xus</a></dd>
+  <dt>April 15, 2023</dt>
+  <dd>the Michael Browne suits : <a href="https://sive.rs/suits">https://sive.rs/suits</a></dd>
+</dl>
+</section>
+
+<h2>
+  Tools I use?
+</h2>
+<p>
+  See <a href=/uses>my “uses” page</a>.
+</p>
+
+<section id=podcast>
+<h2>Podcast</h2>
+<p>
+<a href=/podcast>Listen here on my site</a>.
+Subscribe at
+<a href=https://podcasts.apple.com/us/podcast/derek-sivers/id1485474470>Apple</a>,
+<a href=https://open.spotify.com/show/15cXdV9RBxSZxhyC7Cow6E>Spotify</a>,
+<a href=https://music.amazon.com/podcasts/b7ef5b47-7a28-41f4-9c17-0026315d6863/Derek-Sivers>Amazon</a>,
+<a href=https://overcast.fm/itunes1485474470>Overcast</a>,
+<a href=https://www.stitcher.com/podcast/derek-sivers>Stitcher</a>,
+<a href=https://www.iheart.com/podcast/867-derek-sivers-52276959/>iHeartRadio</a>,
+<a href="https://podcasts.google.com/?feed=aHR0cHM6Ly9zaXZlcnMub3JnL3BvZGNhc3QucnNz">Google</a>, or
+<a href=/podcast.rss>copy the master RSS</a> to paste into any player.
+</p>
+</section>
+
+</main></body></html>

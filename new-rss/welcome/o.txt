@@ -1,0 +1,9 @@
+# Welcome to your homepage!
+
+### See your news: {#see-your-news style="color:grey; margin-top:1cm"}
+
+#### [https://lukesmith.xyz/index.html](lukesmith.xyz/index.html){style="color:CornFlowerBlue"} X {#httpslukesmith.xyzindex.html-x style="color:Chocolate; margin-top:1cm"}
+
+#### [lukesmith.xyz.xml](lukesmith.xyz.html){style="color:CornFlowerBlue"} X {#lukesmith.xyz.xml-x style="color:Chocolate; margin-top:1cm"}
+
+#### [jlp01.fr.html](jlp01.fr.html){style="color:CornFlowerBlue"} X {#jlp01.fr.html-x style="color:Chocolate; margin-top:1cm"}
