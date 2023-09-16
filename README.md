@@ -1,4 +1,4 @@
-# Test
+# ex_Rs2
 
 ## Configuration
 
