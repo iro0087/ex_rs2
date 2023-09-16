@@ -2,11 +2,21 @@
 
 ## Description
 
-This programm works like an Rss agragator but support html pages. So when a source (rss or html) is updated, it will be notified in a personalized interface, which is a html page giving you the links of your sources.
+### What is it?
 
-The rss files will be stored locally and the html pages won't be downloaded but will be refered in your html interface.
+This programm works like an Rss agragator but support html pages from websites. So when a source (rss or html) is updated, it will be notified in a personalized interface, which is a html page giving you the links of your sources.
+
+The rss files will be stored locally after getting converted to html and the html pages of websites provided won't be downloaded for usage but will be refered in your html interface.
 
 You will be able to see if the content of each source has changed since the the last update. 
+
+## How it works
+
+Basically, the programm will download the source and compare to the previous one to see if it has changed, and will notify you in a html file (your interface for the programm).
+
+## Why?
+
+If you want to control what you see on the internet, not based on an algorythm, and have a full control on the interface since it's just an html file with some css, which is easily customizable.
 
 ## Configuration
 
