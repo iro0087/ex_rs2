@@ -1,16 +1,10 @@
 #!/bin/bash
 
-server_="no"
-
 bash ~/new-rss/code_/new-rss.sh
 
 bash ~/new-rss/code_/new-rss2.sh
 
-if [ "$server_" = "yes" ]
-then
+bash ~/new-rss/code_/src_.sh
 
-        bash ~/new-rss/server.sh
-
-fi
-
+bash ~/new-rss/code_/src_2.sh
 
