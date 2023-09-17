@@ -39,5 +39,7 @@ Remember to do this each time you want to see if someone has posted in the links
 
 Open new-rss/welcome/welcome.html with your favorite web browser and you will see all the sources provided and updated.
 
+## Support
 
+It is a bunch of shell scripts, so you can run the program everywhere there is a shell (sh, bash).
 
